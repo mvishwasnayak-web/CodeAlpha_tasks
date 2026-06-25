@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "patterns": ["hello", "hi", "hey", "good morning"],
+      "response": "Hello! Welcome to our website. How can I help you?"
+    },
+    {
+      "patterns": ["what services do you offer", "services", "what do you do"],
+      "response": "We offer Web Development, AI Solutions, Cloud Services and Software Development."
+    },
+    {
+      "patterns": ["contact", "contact details", "how can i contact you"],
+      "response": "You can contact us at support@example.com or call +91 9876543210."
+    },
+    {
+      "patterns": ["working hours", "office hours", "when are you open"],
+      "response": "Our working hours are Monday to Friday, 9:00 AM to 6:00 PM."
+    },
+    {
+      "patterns": ["pricing", "cost", "how much does it cost"],
+      "response": "Pricing depends on the service. Please contact our support team for a quote."
+    },
+    {
+      "patterns": ["thank you", "thanks"],
+      "response": "You're welcome! Let me know if you need any other help."
+    },
+    {
+      "patterns": ["bye", "goodbye"],
+      "response": "Goodbye! Have a great day."
+    },
+    {
+  "patterns": ["refund policy", "can i get refund"],
+  "response": "Our refund policy allows refunds within 7 days."
+},
+{
+  "patterns": ["refund", "refund policy", "can i get refund"],
+  "response": "Refunds can be requested within 7 days of purchase."
+},
+{
+  "patterns": ["location", "where are you located", "address"],
+  "response": "Our office is located in Bangalore, India."
+},
+{
+  "patterns": ["support", "customer support", "help"],
+  "response": "Our support team is available 24/7."
+},
+{
+  "patterns": ["email", "email address"],
+  "response": "You can reach us at support@example.com."
+},
+{
+  "patterns": ["payment methods", "payment"],
+  "response": "We accept UPI, debit cards, credit cards and net banking."
+},
+{
+  "patterns": ["delivery", "delivery time"],
+  "response": "Delivery usually takes 3-5 business days."
+}
+  ]
+}

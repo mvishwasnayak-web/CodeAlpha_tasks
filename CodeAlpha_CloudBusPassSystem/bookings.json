@@ -1,0 +1,14 @@
+[
+    {
+        "pass_id": "PASS2739",
+        "name": "Thanveer Ali",
+        "route": "Mangalore-Ujire",
+        "price": 80
+    },
+    {
+        "pass_id": "PASS5913",
+        "name": "ali",
+        "route": "Mangalore-Dharmasthala",
+        "price": 120
+    }
+]

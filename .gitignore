@@ -12,15 +12,6 @@ env/
 .env
 .env.*
 
-# Database Files
-*.db
-*.sqlite3
-
-# JSON Data Files (optional)
-# Remove these two lines if you WANT sample data in GitHub
-bookings.json
-database.db
-
 # VS Code
 .vscode/
 
@@ -41,7 +32,3 @@ dist/
 
 # Logs
 *.log
-
-# Cache
-.pytest_cache/
-.mypy_cache/
